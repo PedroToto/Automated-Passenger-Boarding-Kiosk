@@ -30,5 +30,8 @@ And other columns that indicates the status of the 5 types of validation:
 * BoardingPassValidation
 * LuggageValidation
 
-In the image bellow we have all the required Azure Resources for this project
-![best](https://github.com/PedroToto/dogImage-classification/blob/main/bet_training_job.PNG)
+In the image bellow we have all the required Azure Resources for this project.
+![best](https://github.com/PedroToto/Automated-Passenger-Boarding-Kiosk/blob/main/material_preparation_step/resource_requirements.png)
+
+In the second image bellow we are showing that manifest table is stored in Azure Blob Storage.
+![best](https://github.com/PedroToto/Automated-Passenger-Boarding-Kiosk/blob/main/material_preparation_step/manifestTableInBlobStorage.png)
